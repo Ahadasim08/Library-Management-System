@@ -1,20 +1,19 @@
 # Full-Stack Library Management System (LMS)
 
 ## 📌 Project Overview
-[cite_start]**Problem:** [cite: 11]
+**Problem:** 
 Traditional library management involves manual book tracking, which is slow, prone to errors, and makes it difficult to manage inventory and student records efficiently.
-
-[cite_start]**Solution:** [cite: 12]
+**Solution:**
 This Full-Stack Library Management System automates the entire process. It provides a digital interface for librarians to add, update, and delete books, while allowing users to search the catalog in real-time. It streamlines borrowing and returning operations.
 
-[cite_start]**Tech Stack:** [cite: 13]
+**Tech Stack:**
 * **Frontend:** React.js (User Interface)
 * **Backend:** Node.js & Express.js (API Logic)
 * **Database:** SQL Server (Data Management)
 
 ---
 
-## [cite_start]🚀 How to Run the Project 
+## 🚀 How to Run the Project 
 
 ### 1. Prerequisites
 Make sure you have **Node.js** and **SQL Server** installed on your machine.
@@ -52,4 +51,7 @@ The application should now be running on `http://localhost:3000`.
 ---
 
 ## 📸 Screenshots
-*(Placeholder: Upload your 3-5 screenshots here as required by the showcase guide)*
+![Login Page](<img width="1920" height="1080" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/93cb7822-c4ab-4940-aa15-2aba01635b52" />
+)
+![Dashboard](dashboard.png)
+![Search Result](search.png)
