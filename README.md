@@ -1,4 +1,3 @@
-<img width="1920" height="1080" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/367f3f64-0a09-4332-ad8b-a48f780648e9" /># Full-Stack Library Management System (LMS)
 
 ## 📌 Project Overview
 **Problem:** 
