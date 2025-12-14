@@ -51,7 +51,4 @@ The application should now be running on `http://localhost:3000`.
 ---
 
 ## 📸 Screenshots
-![Login Page](<img width="1920" height="1080" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/93cb7822-c4ab-4940-aa15-2aba01635b52" />
-)
-![Dashboard](dashboard.png)
-![Search Result](search.png)
+<img width="1920" height="1080" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/9db1f5a9-4df9-44cd-8730-d25a9242c42c" />
