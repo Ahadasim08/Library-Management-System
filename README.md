@@ -1,4 +1,4 @@
-# Full-Stack Library Management System (LMS)
+<img width="1920" height="1080" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/367f3f64-0a09-4332-ad8b-a48f780648e9" /># Full-Stack Library Management System (LMS)
 
 ## 📌 Project Overview
 **Problem:** 
@@ -52,3 +52,5 @@ The application should now be running on `http://localhost:3000`.
 
 ## 📸 Screenshots
 <img width="1920" height="1080" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/9db1f5a9-4df9-44cd-8730-d25a9242c42c" />
+<img width="1920" height="1080" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/e90d7c92-a389-462a-a318-434eac9e16cf" />
+`<img width="1920" height="1080" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/2a2a174e-cdfb-482a-8a67-3c866c3a34c2" />
